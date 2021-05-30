@@ -1,5 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
 img {
     width: 600px;
     height: 300px;
     object-fit: cover;
+}
+
+body {
+    width: 1000px;
+    height: 1000px;
+    background-image: url("https://i.kym-cdn.com/photos/images/newsfeed/001/204/477/a21.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 3000px;
+    font-family: 'Sigmar One', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    font-weight: lighter;
+}
+
+h3 {
+    color: white;
 }
