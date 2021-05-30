@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 0, 255);
+    color: rgb(255, 13, 13);
     text-align: center;
 }
 
@@ -15,4 +15,5 @@ p {
 ul {
     font-size: 20px;
     line-height: 30px;
+    font-weight: bold;
 }
